@@ -6,7 +6,6 @@ The patches I have installed that I remeber:
 * Autostart (Still figuring this one out)
 * Fullgaps
 * Noborder 
-* Swallow 
 * Warp - This works really nicely with xbanish 
 * Cycle Layouts 
 I use slstatus for my status bar and I like how that works so far
